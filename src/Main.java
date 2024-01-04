@@ -28,8 +28,8 @@ public class Main {
             for (int j = 0; j < count; j++) {
                 System.out.print("<");
             }
-            System.out.println();
             count++;
+            System.out.println();
         }
     }
 }
